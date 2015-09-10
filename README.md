@@ -1,5 +1,6 @@
 # sudo insults
 Reuse [sudo](http://www.sudo.ws) insults.
+(_currently only as Python module_)
 
 ## generate
 Download, parse and generate insults from sudo: 
