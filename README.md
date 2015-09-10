@@ -5,7 +5,7 @@ Reuse [sudo](http://www.sudo.ws) insults.
 ## generate
 Download, parse and generate insults from sudo: 
   ```
-  ./generate_insults.py: <insults>
+  python generate_insults.py: <insults>
 
    <insults>  list of insults, separated by comma
 
