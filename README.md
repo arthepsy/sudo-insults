@@ -19,15 +19,15 @@ Download, parse and generate insults from sudo:
   ```
 Example:
   ```
-  ./generate_insults.py PC,ALL
+  python generate_insults.py PC,ALL
   ```
 
 ## usage
   ```
-  ./demo.py
+  python demo.py
   Maybe if you used more than just two fingers...
   ```
   ```
-  ./demo.py
+  python demo.py
   Do you think like you type?
   ```
