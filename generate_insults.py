@@ -32,7 +32,7 @@ INSULTS = {'2001':'ins_2001.h',
            'CSOPS':'ins_csops.h'}
 
 def usage(err=None):
-	print "{0}: <insults>\n".format(sys.argv[0])
+	print "{0} <insults>\n".format(sys.argv[0])
 	print "   <insults>  list of insults, separated by comma\n"
 	print "   ALL        include all insults"
 	print "   PC         use politically correct variations\n"

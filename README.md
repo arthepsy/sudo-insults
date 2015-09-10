@@ -5,7 +5,7 @@ Reuse [sudo](http://www.sudo.ws) insults.
 ## generate
 Download, parse and generate insults from sudo: 
   ```
-  python generate_insults.py: <insults>
+  $ python generate_insults.py <insults>
 
    <insults>  list of insults, separated by comma
 
@@ -19,15 +19,15 @@ Download, parse and generate insults from sudo:
   ```
 Example:
   ```
-  python generate_insults.py PC,ALL
+  $ python generate_insults.py PC,ALL
   ```
 
 ## usage
   ```
-  python demo.py
+  $ python demo.py
   Maybe if you used more than just two fingers...
   ```
   ```
-  python demo.py
+  $ python demo.py
   Do you think like you type?
   ```
